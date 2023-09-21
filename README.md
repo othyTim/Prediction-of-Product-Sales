@@ -7,7 +7,7 @@
 
 ### Business problem:
 
-Forcast pruduct sales accross Outlet stores
+Forcast product sales accross Outlet stores
 
 
 ### Data Source
